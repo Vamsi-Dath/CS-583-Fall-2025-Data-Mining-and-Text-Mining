@@ -22,3 +22,7 @@ final_obama_predictions.txt
 final_romney_predictions.txt
 
 ```
+# Research Project Report
+<object data="report.pdf" type="application/pdf" width="100%" height="500px">
+  <p>Your browser does not support PDFs. <a href="report.pdf">Download</a> the PDF instead.</p>
+</object>
